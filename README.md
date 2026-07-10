@@ -52,8 +52,9 @@ The dataset used in this project was obtained from publicly available datasets p
 * Highlighted important KPIs to support business decisions.
 
 ---
-Screenshot:
+📷 Dashboard Screenshots
 
+https://github.com/ANKIT-VERMA9/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile_Sales_Dashboard_Preview.png
 
 ## 🚀 Conclusion
 
