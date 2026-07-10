@@ -53,10 +53,12 @@ The dataset used in this project was obtained from publicly available datasets p
 
 ---
 
-## 📸 Screenshots / Demo
-
-![Mobile Sales Dashboard](https://github.com/ANKIT-VERMA9/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile_Sales_Dashboard_Preview.png?raw=true)
-
 ## 🚀 Conclusion
 
 This project demonstrates skills in **Power BI, Data Visualization, Data Modeling, DAX, and Business Intelligence reporting**, making it suitable for Data Analyst and Business Analyst portfolios.
+
+---
+
+## 📸 Screenshots / Demo
+
+![Mobile Sales Dashboard](https://github.com/ANKIT-VERMA9/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile_Sales_Dashboard_Preview.png?raw=true)
