@@ -52,6 +52,8 @@ The dataset used in this project was obtained from publicly available datasets p
 * Highlighted important KPIs to support business decisions.
 
 ---
+Screenshot:
+
 
 ## 🚀 Conclusion
 
