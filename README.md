@@ -55,7 +55,7 @@ The dataset used in this project was obtained from publicly available datasets p
 
 ## 📸 Screenshots / Demo
 
-![Dashboard Preview](https://github.com/ANKIT-VERMA9/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile_Sales_Dashboard_Preview.png?raw=true)
+![Mobile Sales Dashboard](https://github.com/ANKIT-VERMA9/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile_Sales_Dashboard_Preview.png?raw=true)
 
 ## 🚀 Conclusion
 
